@@ -7,6 +7,7 @@ SITENAME = u"atzorvas' space"
 SITEURL = 'http://tzorvas.com'
 DISQUS_SITENAME = "tzorvas"
 TWITTER_USERNAME = "atzorvas"
+GITHUB_URL = "https://github.com/atzorvas/tzorvas.com"
 #GOOGLE_ANALYTICS = "UA-40901002-1"
 DEFAULT_PAGINATION = 5
 

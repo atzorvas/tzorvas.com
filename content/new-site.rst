@@ -12,6 +12,8 @@
 | Disqus_ for the comments
 | Sublime-text2_ with sublime-pelican_
 | sshfs_ for mounting the FS and editing remotely the files with sublime-text2.
+| 
+| Github Ribbon added, now you can clone the source code.
 
 
 .. _Disqus: http://disqus.com/
